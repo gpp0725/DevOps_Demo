@@ -1,0 +1,2 @@
+# DevOps_Demo
+这是一个规范开发整体流程demo，其中在docker容器中进行代码编译，使用gitlab作为代码仓库，使用rancher管理k8s集群，使用rancher-pipeline作为CICD工具，最终实现自动化构架发布镜像，并且在k8s环境下部署服务。
